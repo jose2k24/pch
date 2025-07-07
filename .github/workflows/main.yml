@@ -17,4 +17,4 @@ jobs:
         server: call3.paschat.net
         username: ${{ secrets.ftp_usernamepas }}
         password: ${{ secrets.ftp_passwordpas }}
-        server-dir: /
+        server-dir: /t
